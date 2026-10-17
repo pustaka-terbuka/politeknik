@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "source_code": "politeknik",
+  "agency_code": "JPPKK",
+  "run_id": "2026-10-17T03-20-09Z",
+  "chunk_index": 1,
+  "total_records": 500,
+  "completed_at": "2026-10-17T03:20:10.261Z",
+  "harvester": {
+    "name": "politeknik-koha-harvester",
+    "version": "1.0.0"
+  },
+  "batches": [
+    {
+      "file": "batch_0.xml",
+      "records": 100,
+      "sha256": "f9bc5c72af821aea1c97a8095ff143c0da12e98268dce68a7a672a52aee126ac"
+    },
+    {
+      "file": "batch_1.xml",
+      "records": 100,
+      "sha256": "f0307b4130e79f2f749fb26d2e50297edb92ba02404c8d1877e47288744c320c"
+    },
+    {
+      "file": "batch_2.xml",
+      "records": 100,
+      "sha256": "128dfd80bbec16c9d9ffbaa2e8976baf5619bc898113ebe950f4a783af39f3f3"
+    },
+    {
+      "file": "batch_3.xml",
+      "records": 100,
+      "sha256": "0754d362bac22d22f82c128eb3a75d3597766e237c4429b54b991b7f0cf15800"
+    },
+    {
+      "file": "batch_4.xml",
+      "records": 100,
+      "sha256": "2c3017f9e1703d70c571f5e161de5447b98af07df57eb9267a92b792ed3f9eeb"
+    }
+  ]
+}
